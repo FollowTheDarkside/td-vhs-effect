@@ -8,7 +8,7 @@
 A repository for vhs effects using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here (GenerativeVHS電柱)]()~~.
+Demo video is [here (GenerativeVHS電柱)](https://youtu.be/8Y6l8Y19mgI).
 <br>
 <br>
 
