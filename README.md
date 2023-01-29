@@ -8,9 +8,12 @@
 A repository for vhs effects using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is [here (GenerativeVHS電柱)](https://youtu.be/8Y6l8Y19mgI).
+Demo:
+ - [GenerativeVHS電柱](https://youtu.be/8Y6l8Y19mgI)
+  - [金谷VHS](https://youtu.be/uSyrB9XF7OU)
 <br>
 <br>
 
 Reference:
 - [GLSL TOP Post Effects](https://youtu.be/RFomr3rVoBY)
+- [Circuit Bending – TouchDesigner Tutorial 42](https://youtu.be/mAp_wxuuw_U)
